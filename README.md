@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @WhiteTorn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+Hello There👋, I’m David  
+
+   
+- 👀 I’m interested in Everything that my mind can reach.  
+- 🌱 I’m currently learning Machine Learning and Deep Learning  
 - 📫 How to reach me\
-    × 
-- 😄 Pronouns: ...
+    × [Telegram]()\
+    × [Linkedin]()\
+    × [Instagram]()\
 - ⚡ Fun fact: ...
 
 <!---
