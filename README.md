@@ -6,7 +6,7 @@ Hello There👋, I’m David
 - 📫 How to reach me\
     × [Telegram]()\
     × [Linkedin]()\
-    × [Instagram]()\
+    × [Instagram]()
 - ⚡ Fun fact: ...
 
 <!---
