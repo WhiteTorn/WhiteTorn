@@ -1,4 +1,4 @@
-I’m interested in Everything that my mind can reach.  
+I’m interested in Everything that my mind can reach!  
 
 <!---
 WhiteTorn/WhiteTorn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
