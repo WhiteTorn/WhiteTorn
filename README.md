@@ -80,6 +80,7 @@ I believe in learning by teaching. I'm currently creating tutorials to share my 
 - Exploring the low-level mechanics of autodiff by completing exercises in `tinygrad`.
 - Finishing Andrej Karpathy's "Neural Networks: Zero to Hero" to solidify my foundational knowledge.
 
+<!--
 ---
 
 ## 📫 Let's Connect!
