@@ -23,7 +23,7 @@ This is where my passion for building comes to life. I focus on creating solutio
 ### 💧 V.O.R.T.EX - AI-Powered Logistics Automation
 V.O.R.T.EX was born from a real-world business need to eliminate tedious manual data entry. It's an automated system designed to help a logistics company save hours of daily work by intelligently reading and processing PDF and email orders, slashing processing time from 15 minutes to under 60 seconds.
 
-> **⚙️ Tech Stack:**
+> **⚙️ Stack:**
 > ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 > ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 > ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -33,7 +33,7 @@ V.O.R.T.EX was born from a real-world business need to eliminate tedious manual 
 ### 📚 Booksin.ge - AI Book Discovery Platform
 As Georgia's first comprehensive AI-powered book search engine, Booksin.ge aggregates data from over 30 bookstores to provide personalized recommendations. It serves over 2,000 monthly active users, helping them discover their next favorite book.
 
-> **⚙️ Tech Stack:**
+> **⚙️ Stack:**
 > ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 > ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 > ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4A80F5?style=for-the-badge&logo=google&logoColor=white)
@@ -42,7 +42,7 @@ As Georgia's first comprehensive AI-powered book search engine, Booksin.ge aggre
 
 ---
 
-## 🛠️ My Core Tech Stack
+## 🛠️ Tech Stack
 These are the tools and technologies I use to bring my ideas to life.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -52,7 +52,7 @@ These are the tools and technologies I use to bring my ideas to life.
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4A80F5?style=for-the-badge&logo=google&logoColor=white)
 [![Ollama](https://img.shields.io/badge/Ollama-fff?style=for-the-badge&logo=ollama&logoColor=000)](#)
-![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge)
 ![Qdrant](https://img.shields.io/badge/Qdrant-AC1431?style=for-the-badge&logo=qdrant&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -66,7 +66,7 @@ These are the tools and technologies I use to bring my ideas to life.
 
 ---
 
-## 📚 Knowledge Sharing & Tutorials
+## 📚 Knowledge Sharing
 I believe in learning by teaching. I'm currently creating tutorials to share my knowledge with the community.
 
 - **LangGraph Tutorials:** A deep dive into building complex, agentic AI systems with cycles and state management. `[Coming Soon]`
@@ -74,7 +74,7 @@ I believe in learning by teaching. I'm currently creating tutorials to share my 
 
 ---
 
-## 🌱 What I'm Currently Exploring
+## 🌱 Currently Exploring
 
 - Diving deep into multi-modal RAG techniques.
 - Exploring the low-level mechanics of autodiff by completing exercises in `tinygrad`.
