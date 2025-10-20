@@ -23,22 +23,9 @@ This is where my passion for building comes to life. I focus on creating solutio
 ### 💧 V.O.R.T.EX - AI-Powered Logistics Automation
 V.O.R.T.EX was born from a real-world business need to eliminate tedious manual data entry. It's an automated system designed to help a logistics company save hours of daily work by intelligently reading and processing PDF and email orders, slashing processing time from 15 minutes to under 60 seconds.
 
-> **⚙️ Stack:**
-> ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 
 ### 📚 Booksin.ge - AI Book Discovery Platform
 As Georgia's first comprehensive AI-powered book search engine, Booksin.ge aggregates data from over 30 bookstores to provide personalized recommendations. It serves over 2,000 monthly active users, helping them discover their next favorite book.
-
-> **⚙️ Stack:**
-> ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-> ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4A80F5?style=for-the-badge&logo=google&logoColor=white)
-> ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-
 
 ---
 
