@@ -4,7 +4,7 @@ Hi there! This is your new README. The most important thing you can do now is cr
 2.  **Project GIFs:** Use a tool like ScreenToGif or Kap to record short, looping videos of your projects in action. This is the most impactful part!
 -->
 
-<h1 align="center">HI, I'm David 👋</h1>
+<h1 align="center">HI, I'm David</h1>
 <p align="center">
   I'm an AI Engineer who builds practical, end-to-end intelligent systems. I specialize in turning complex business problems into automated solutions using Generative AI, with a focus on scalable back-end architecture and production-ready RAG pipelines. 
 </p>
